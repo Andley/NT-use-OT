@@ -15,6 +15,7 @@
 
 ## 期刊文章
 
+- [Moo, Douglas J., and Andrew David Naselli. “The Problem of the New Testament’s Use of the Old Testament.” Pages 702–46 in *The Enduring Authority of the Christian Scriptures.* Edited by D. A. Carson. Grand Rapids, Michigan: William B. Eerdmans Publishing Company, 2016.](articles/Moo-2016.md)
 - [Beale, Greg. “The Right Doctrine, Wrong Texts: Can We Follow the Apostles’ Doctrine but Not Their Hermeneutics?” *Foundations* 60 (2011): 39–46.](articles/Beale-2011.md)
 
 
