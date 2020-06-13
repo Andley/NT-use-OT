@@ -15,6 +15,6 @@
 
 ## 期刊文章
 
-- Beale, Greg. “The Right Doctrine, Wrong Texts: Can We Follow the Apostles’ Doctrine but Not Their Hermeneutics?” *Foundations* 60 (2011): 39–46.
+- [Beale, Greg. “The Right Doctrine, Wrong Texts: Can We Follow the Apostles’ Doctrine but Not Their Hermeneutics?” *Foundations* 60 (2011): 39–46.](articles/Beale-2011.md)
 
 
