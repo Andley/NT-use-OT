@@ -8,6 +8,9 @@
 
 Jared M. Compton, “Shared Intentions?  Reflections on Inspiration and Interpretation  in Light of Scripture’s Dual Authorship,” Themelios 33.3 (2008): 23–33.
 
+---
+
+[[Berding - 2008 - Three Views on the New Testament Use of the Old Testament]]
 
 ---
 
